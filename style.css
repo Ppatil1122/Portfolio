@@ -1,0 +1,484 @@
+*{
+    padding: 0px;
+    margin: 0px; 
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: black;
+}
+
+#logo{
+    height: 100px;
+width: 200px;
+display: inline-block;
+text-align: left;
+color: orange;
+font-size: 25px;
+padding-top: 5%;
+padding-left: 5%;
+text-decoration: none;
+}
+.fa-solid fa-user{
+    height: 10px;
+    width: 10px;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+#m{
+    display:inline;
+    margin-left: 40%;
+    font-size: 20px;
+}
+
+#imgit{
+    height: 50px;
+    width: 50px;
+}
+#imag{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    margin-left: 2%;
+}
+
+a{
+    margin-left: 5%;
+    text-decoration: none;
+}
+
+p{
+    color : white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#text{
+    height:60%;
+    width:60%;
+    display:inline-block;
+    margin-right: 200px ;
+}
+
+#circle1
+{
+margin-top: 10%;
+    height: 400px;
+    width: 400px;
+    display:inline-block;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: orange;
+    box-shadow: 1px 1px 90px orange;
+}
+
+.backvideo{
+    height: 400px;
+    width: 400px;
+    display:inline-block;
+    border-radius: 50%;
+}
+
+.main{
+    display: flex;
+}
+.home1{
+    margin-top: 10%;
+    height: 50%;
+    width: 50%;
+    display: inline-block;
+margin-right: 20%;
+}
+
+#n{
+    font-size: 100px;
+}
+
+.full{
+    font-size: 50px;
+    animation-name: animatepara;
+    animation-timing-function: 2s;
+}
+#work{
+    color: orange
+}
+
+#Aboutme{
+    margin-top: 300px;
+}
+.About{
+display: inline-block;
+    height: 800px;
+    width:800px;
+}
+#head{
+    color:white;
+    font-size: 50px;
+   text-decoration: underline;
+   text-decoration-color: orange;
+    text-align: center;
+    
+}
+#circle2
+{
+margin-top: 10%;
+margin-left: 10%;
+margin-right: 10%;
+    height: 300px;
+    width: 300px;
+    display:inline-block;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: orange;
+    box-shadow: 1px 1px 90px orange;
+}
+.backvideo2{
+    height: 300px;
+    width: 300px;
+    display:inline-block;
+    border-radius: 50%;
+}
+
+
+#mainwrite{
+    margin-top: 5%;
+    color:white;
+    font-size: 30px;
+}
+
+#skills{
+    margin-top: 300px;
+}
+#skilled{
+    color:white;
+    font-size: 50px;
+   text-decoration: underline;
+   text-decoration-color: orange;
+    text-align: center;
+}
+
+#topic{
+
+    margin-top: 5%;
+    color:white;
+    font-size: 30px;
+}
+
+
+.dashhh{
+    margin-top: 1%;
+    height: 1px;
+    width: 200px;
+    border: solid;
+    border-color: orange;
+}
+
+.fa-brands fa-js{
+font-weight: 500px;
+}
+
+#html{
+    border: solid;
+    border-radius: 20%;
+    border-color: orange;
+}
+
+#skillstypes{
+    display: block;
+    margin-top: 10%;
+}
+
+#tskill
+{
+    text-align: center;
+    height: 120px;
+    width: 750px;
+    display: inline-block;
+    color:white;
+    text-decoration: underline ;
+    text-decoration-color: orange;
+    font-size: 40px;
+    
+}
+
+#oskill
+{
+    text-align: center;
+    height: 120px;
+    width: 750px;
+    display: inline-block;
+    color:white;
+    text-decoration: underline ;
+    text-decoration-color: orange;
+    font-size: 40px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+#fortej{
+    display: flex;
+    margin-top: 5%;
+}
+.fort{
+    margin-left: 5%;
+    height: 420px;
+    width: 650px;
+    display: inline-block;
+    border: solid;
+    border-color: orange;
+}
+#cpp
+{
+    margin-left: 5%;
+    margin-top: 5%;
+    height:150px;
+    width: 150px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+}
+#java
+{
+    margin-left: 5%;
+    margin-top: 5%;
+    height:150px;
+    width: 144px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+}
+#html
+{
+    margin-left: 5%;
+    margin-top: 5%;
+    height:150px;
+    width: 150px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+    border: none;
+}
+#css
+{
+    margin-left: 5%;
+    margin-top: 5%;
+    height:150px;
+    width: 144px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+}
+#JavaScript
+{
+    margin-left: 5%;
+    margin-top: 5%;
+    height:150px;
+    width: 150px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+}
+#Ardiuno
+{
+    margin-left: 5%;
+    margin-top: 5%;
+    height:150px;
+    width: 150px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+}
+
+.foro{
+    margin-left: 5%;
+    height: 420px;
+    width: 650px;
+    display: inline-block;
+    border: solid;
+    border-color: orange;
+}
+
+.oneonly
+{
+    margin-left: 5%;
+    margin-top: 5%;
+    height:150px;
+    width: 150px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+}
+
+#contactme{
+    margin-top: 300px;
+}
+
+#contacted{
+    color:white;
+    font-size: 50px;
+   text-decoration: underline;
+   text-decoration-color: orange;
+    text-align: center;
+}
+
+#email{
+    margin-top: 5%;
+    margin-left: 32%;
+    height:574px;
+    width: 500px;
+    border:solid gray;
+}
+
+#one{
+    margin-top: 3%;
+    margin-left: 3%;
+    color:white;
+    font-size: 25px;
+}
+
+.ema{
+  
+    background-color: black;
+   
+}
+
+input::placeholder{
+    margin-left: 12%;
+    color: grey;
+
+}
+input{
+    margin-left: 2%;
+    margin-top: 3%;
+    height: 85px;
+    width: 475px;
+    background-color: black;
+    border:solid grey;
+    border-radius: 2%;
+   
+   
+}
+
+#but{
+    margin-left: 2%;
+    margin-top: 3%;
+    height: 85px;
+    width: 475px;
+}
+
+#button{
+    margin-left: 2%;
+    margin-top: 3%;
+    height: 75px;
+    width: 455px;
+    background-color: orange;
+    color: white;
+   text-align: center;
+   font-size: 25px;
+}
+
+
+button:hover{
+    box-shadow: 0 0 5px orange,0 0 25px orange,0 0 100px orange,0 0 200px orange;
+}
+
+@keyframes animatepara{
+    from {rotate: x 90deg}
+    to {font-size:x 0deg;}
+}
+
+@keyframes animateparaname{
+    from {rotate: x 90deg;}
+    to {roate:x 0deg;}
+}
+
+#hello{
+    animation-name: animatepara;
+    animation-duration: 1s;
+    animation-timing-function: ease-in;
+    animation-direction: normal;
+}
+
+#n{
+    animation-name: animateparaname;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+}
+
+#Iam{
+    animation-name: animatepara;
+    animation-duration: 5s;
+    animation-timing-function: ease-in;
+}
+
+@media screen and (max-width:600px){
+    #logo{
+width: 0px;
+font-size: 20px;
+    }
+    .fa-solid fa-user{
+display: none;
+    }
+    #m{
+        font-size: 18px;
+        margin-left: 30%;
+    }
+
+    #home{
+        height:max-content;
+    }
+    .full{
+        width: 600px;
+
+    }
+    #n{
+        width: 600px;
+        font-size: 88px;
+    }
+
+    #circle1{
+        margin-top: 12%;
+        margin-left: 20%;
+    }
+    .main{
+        display: inline-block;
+    }
+    #imag{
+        margin-top: 12%;
+    }
+
+    #circle2{
+        display: none;
+    }
+    .About{
+        height: max-content;
+        width: 600px;
+    }
+
+    #mainwrite{
+        width:600px;
+    }
+    .foro{
+        margin-top: 10%;
+    }
+    #gmail{
+        margin-left: 20%;
+    }
+
+
+}
+
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: orange ;
+    color: orange;
+}
+
+#foremail{
+    height: 25px;
+    width: 25px;
+}
