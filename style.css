@@ -462,14 +462,29 @@ display: none;
     #mainwrite{
         width:600px;
     }
+    .fort{
+        height: max-content;
+    }
     .foro{
-        margin-top: 10%;
+        height: max-content;
+        
     }
     #gmail{
         margin-left: 20%;
     }
+ #fortej{
+    display: flex;
+ }
 
+ #tskill{
+    width: 50%;
+    display: inline-block;
+ }
+ #oskill{
+    width: 40%;
+    display: inline-block;
 
+ }
 }
 
 a:hover{
